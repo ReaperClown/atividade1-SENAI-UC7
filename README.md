@@ -7,7 +7,7 @@
 
 ### Comandos:
  - ```git config``` - Usado para definir configurações globais ou relacionadas ao repositório, como:
-> ```git config --global user.name "Seu Nome"``` - Define um nome usado para identificação nos commits
+```git config --global user.name "Seu Nome"``` - Define um nome usado para identificação nos commits
 <br>
 ```git config --global user.email seu@email.com``` - Define um email também para a indentificação
 <br>
